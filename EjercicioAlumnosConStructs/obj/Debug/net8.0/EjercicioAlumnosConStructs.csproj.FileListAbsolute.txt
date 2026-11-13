@@ -1,0 +1,15 @@
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\bin\Debug\net8.0\EjercicioAlumnosConStructs.exe
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\bin\Debug\net8.0\EjercicioAlumnosConStructs.deps.json
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\bin\Debug\net8.0\EjercicioAlumnosConStructs.runtimeconfig.json
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\bin\Debug\net8.0\EjercicioAlumnosConStructs.dll
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\bin\Debug\net8.0\EjercicioAlumnosConStructs.pdb
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.AssemblyInfoInputs.cache
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.AssemblyInfo.cs
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.csproj.CoreCompileInputs.cache
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.sourcelink.json
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.dll
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\refint\EjercicioAlumnosConStructs.dll
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.pdb
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\EjercicioAlumnosConStructs.genruntimeconfig.cache
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EjercicioProfeAlumnos\EjercicioAlumnosConStructs\obj\Debug\net8.0\ref\EjercicioAlumnosConStructs.dll
