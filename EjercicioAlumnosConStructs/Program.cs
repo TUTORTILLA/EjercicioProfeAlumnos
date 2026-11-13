@@ -10,19 +10,20 @@ Alumno[] listado = new Alumno[tamaño];
 Random rnd = new();
 
 
-
-
-
-InicializarArray(listado);
-MostrarArray(listado);
-
-CalcularMedia(listado);
-CalcularMáximaNota(listado);
-CalcularMínimaNota(listado);
+InicializarArray(listado); //Inicializamos (damos valores al array)
+MostrarArray(listado); //Mostramos la lista de alumnos
+WriteLine("=================");
+CalcularMedia(listado); //Calculamos la media de la clase
+WriteLine("=================");
+CalcularMáximaNota(listado); //Calculamos quién es el alumno con más nota
+WriteLine("=================");
+CalcularMínimaNota(listado); //Calculamos quién es el alumno con menos nota
+WriteLine("=================");
 
 int nota = 5;
 var hayAlumno = HayAlumnoConNota(listado, nota);
 WriteLine($"¿Hay alumnos con nota = {nota}? : {(hayAlumno ? "SÍ": "NO")}");
+WriteLine("=================");
 
 var hayAlumnoConNombre = ComprobarNombreAlumnos(listado, out string nombre);
 WriteLine($"¿Hay alumnos con el nombre {nombre}? : {(hayAlumnoConNombre ? "SÍ": "NO")}");
@@ -96,7 +97,7 @@ void CalcularMáximaNota(Alumno[] lista)
 
 void CalcularMínimaNota(Alumno[] lista)
 {
-    int mínimo = 0;
+    int mínimo = Int32.MaxValue;
     string nombreAlumno = string.Empty;
     for (int i = 0; i < lista.Length; i++)
     {
@@ -125,6 +126,7 @@ bool HayAlumnoConNota(Alumno[] lista, int n)
 
 bool ComprobarNombreAlumnos(Alumno[] lista, out string nombre)
 {
+    Write("NOMBRE A COMPROBAR: ");
     string? nombreAlumno = ReadLine().ToLower() ?? "Desconocido";
     nombre = nombreAlumno;
     for (int i = 0; i < lista.Length; i++)
